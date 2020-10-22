@@ -1,11 +1,10 @@
 # GrowBox Breeder 
-Da man einige Planzen / Kreuter keimen und sprießen lassen muss, habe ich mir eine Anzuchtstation zugelegt. Meine Anzuchtstation ist zwar temperiert, allerdings kann ich diese nicht regeln.
+Da man einige Pflanzen / Kräuter keimen und sprießen lassen muss, habe ich mir eine Anzuchtstation zugelegt. Meine Anzuchtstation ist zwar temperiert, allerdings kann ich diese nicht regeln.
 
 Um zu überprüfen, ob die Idealbedingungen erfüllt sind, habe ich den GrowBox Breeder konzipiert.
-
 Solltet ihr Fragen oder Anregungen haben, öffnet bitte ein Issue!
 
-Viel Spaß beim nachbauen!
+Viel Spaß beim Nachbauen!
 
 ## Benötigte Hardware
 
